@@ -1,8 +1,9 @@
 # Spanish
-Aquí están resuelto el curso de la universidad de Helsinki de Java, "Java Programming I", este repositorio lo he creado para tener a mano los ejercicios si necesitase revisarlos en algún momento además de que cualquier persona que tenga algún problema y se sienta estancado con un ejercicio puede echar un vistazo.
-Por favor, el repositorio no debe utilizarse para copiar y pegar los ejercicios directamente, no se aprende nada de esta forma y muchas veces en necesario invertir horas en hacer un ejercicio por ti mismo que copiar la solución por internet.
+Este repositorio contiene las soluciones al curso "Java Programming I" de la Universidad de Helsinki. Lo he creado para tener los ejercicios disponibles en caso de que necesite revisarlos en el futuro y para ayudar a quienes puedan sentirse atascados con algún ejercicio, brindándoles un ejemplo como referencia.
+
+Importante: Este repositorio no está pensado para copiar y pegar las soluciones directamente. El aprendizaje real proviene de trabajar los problemas por tu cuenta, incluso si lleva horas resolver un ejercicio. Copiar soluciones de internet no solo va en contra del propósito del aprendizaje, sino que también limita tu progreso. Utiliza estas soluciones como guía, no como un atajo.
 
 # English
-Here are the solutions for the University of Helsinki's Java course, "Java Programming I". I created this repository to keep the exercises handy in case I need to review them in the future. Additionally, it can be useful for anyone who feels stuck with an exercise and wants to take a look for guidance.
+This repository contains the solutions to the "Java Programming I" course from the University of Helsinki. I created it to have the exercises readily available for future review and to help those who might feel stuck on an exercise by providing a reference example.
 
-Please note, this repository should not be used to copy and paste the exercises directly. This approach is not conducive to learning, and often it’s necessary to spend hours working through an exercise yourself rather than simply copying the solution from the internet.
+Important: This repository is not intended for copying and pasting solutions directly. True learning comes from working through problems on your own, even if it takes hours to solve an exercise. Copying solutions from the internet goes against the purpose of learning and limits your progress. Use these solutions as a guide, not as a shortcut.
