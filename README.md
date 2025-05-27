@@ -1,3 +1,5 @@
+![Logo Java](java_logo.png) ![Logo Mooc](logo_mooc.png)
+
 # Spanish
 Este repositorio contiene las soluciones al curso "Java Programming I" de la Universidad de Helsinki. Lo he creado para tener los ejercicios disponibles en caso de que necesite revisarlos en el futuro y para ayudar a quienes puedan sentirse atascados con algún ejercicio, brindándoles un ejemplo como referencia.
 
